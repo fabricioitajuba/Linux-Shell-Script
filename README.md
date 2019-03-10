@@ -1,3 +1,6 @@
+Fonte: Introdução ao Shell Script no Linux
+https://www.devmedia.com.br/introducao-ao-shell-script-no-linux/25778
+
 - Para criar um script:
 $ sudo nano "nome".sh
 
