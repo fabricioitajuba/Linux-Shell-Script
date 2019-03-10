@@ -4,10 +4,6 @@ $ sudo nano "nome".sh
 no inicio do script, sempre entrar com a linha:
 #!/bin/bash
 
-..
-digite o código aqui
-..
-
 salve e feche o arquivo
 
 - Altere as permissões do arquivo:
