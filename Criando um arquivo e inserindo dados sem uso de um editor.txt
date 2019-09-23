@@ -1,0 +1,11 @@
+Criando um arquivo e inserindo dados sem uso de um editor
+
+$ cat > arquivo.txt <<EOF
+> linha 1
+> linha 2
+> linha 3
+> EOF
+
+obs: EOF - End Of File
+
+
